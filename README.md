@@ -8,7 +8,7 @@ MSc Thesis, Technical University of Denmark (DTU).
 
 ## Model file
 The Blender file (`root_structure.blend`) is provided via GitHub Releases:
-https://github.com/USERNAME/REPO/releases
+https://github.com/jorei123/Root_Structure/releases/tag/v1.0
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
