@@ -4,7 +4,7 @@ This repository provides the Blender model of the synthetic root structure used 
 
 ## Related publication
 
-Sorrentino, Gianmario; Reinertsen, Jørgen A.; Skar Christiansen, Asmus; Rasmussen, Ian (2025). *Direct measurement of shear mobilisation in 3D-printed root analogues using distributed fibre-optic sensing.*
+Sorrentino, Gianmario; Reinertsen, Jørgen A.; Skar Christiansen, Asmus; Rasmussen, Ian (2026). *Direct measurement of shear mobilisation in 3D-printed root analogues using distributed fibre-optic sensing.*
 
 **DOI:** [10.1139/cgj-2026-0606](https://doi.org/10.1139/cgj-2026-0606)
 
